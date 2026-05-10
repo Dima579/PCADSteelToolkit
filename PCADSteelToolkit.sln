@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCADSteelToolkit", "PCADSteelToolkit\PCADSteelToolkit.csproj", "{2D6404DC-B6AD-45CE-BBAB-43A9A4899DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6404DC-B6AD-45CE-BBAB-43A9A4899DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6404DC-B6AD-45CE-BBAB-43A9A4899DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6404DC-B6AD-45CE-BBAB-43A9A4899DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6404DC-B6AD-45CE-BBAB-43A9A4899DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1C2F2C6-D989-46AD-BDCC-7FF8BB886EE3}
+	EndGlobalSection
+EndGlobal
