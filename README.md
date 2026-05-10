@@ -32,6 +32,7 @@ Please additionally note values MUST be inputted identically to structure as see
 For example values please see below (for all values except the shorthand, please disregard the | as it's used to only seperate the individual values):
 
 For HFCH:
+
 42.4 |	3.2
 
 60.3 |	3.6
@@ -43,36 +44,63 @@ For HFCH:
 457.0 |	14.2
 
 For HFRH:
-50  x  30	3.2
-60  x  40	8.0
-100  x  60	6.3
-150  x  100	4.0
-500  x  200	17.5
+
+50  x  30 |	3.2
+
+60  x  40 |	8.0
+
+100  x  60 |	6.3
+
+150  x  100 |	4.0
+
+500  x  200 |	17.5
+
 
 For LUNEQ:
-200x150	18.0
-150x90	10.0
-100x75	12.0
-70x50	6.0
-30x20	3.0
+
+200x150 |	18.0
+
+150x90 |	10.0
+
+100x75 |	12.0
+
+70x50 |	6.0
+
+30x20 |	3.0
 
 For UB:
-610 x 178	x 100
-533 x 210	x 138
-533 x 312	x 151
-762 x 267	x 173
-457 x 191	x 89
+610 x 178 |	x 100
+
+533 x 210 |	x 138
+
+533 x 312 |	x 151
+
+762 x 267 |	x 173
+
+457 x 19 |	x 89
+
 
 For UC:
-356 x 406	x 1299	
-356 x 368	x 177
-254 x 254	x 107
-203 x 203	x 52
-152 x 152	x 23
+
+356 x 406 |	x 1299	
+
+356 x 368 |	x 177
+
+254 x 254 |	x 107
+
+203 x 203 |	x 52
+
+152 x 152 |	x 23
+
 
 For Shorthand:
+
 HFCH/42.4/3.2
+
 HFRH/50  x  30/3.2
+
 LUNEQ/200x150/18.0
+
 UB/610 x 178/x 100
+
 UC/356 x 406/x 1299
