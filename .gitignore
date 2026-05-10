@@ -1,0 +1,50 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliCAD / CAD generated
+*.bak
+*.dwl
+*.dwl2
+
+# Publish output
+publish/
+
+# Test output
+TestResults/
+
+# Local DB files
+*.mdf
+*.ldf
+
+# Debug symbols
+*.pdb
+
+# Generated plugin copies
+Plugins/
