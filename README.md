@@ -32,11 +32,15 @@ Please additionally note values MUST be inputted identically to structure as see
 For example values please see below (for all values except the shorthand, please disregard the | as it's used to only seperate the individual values):
 
 For HFCH:
-42.4	3.2
-60.3	3.6
-114.3	5.0
-244.5	16.0
-457.0	14.2
+42.4 |	3.2
+
+60.3 |	3.6
+
+114.3 |	5.0
+
+244.5 |	16.0
+
+457.0 |	14.2
 
 For HFRH:
 50  x  30	3.2
